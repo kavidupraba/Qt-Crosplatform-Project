@@ -1,0 +1,12 @@
+release/moc_mainWindow.o
+release/moc_task.o
+release/main.o
+release/mainWindow.o
+release/task.o
+release/main.o
+release/nameform.o
+release/startpage.o
+release/moc_mainWindow.o
+release/moc_task.o
+release/moc_nameform.o
+release/moc_startpage.o
